@@ -1,1 +1,1 @@
-# shadow-nmr
+# shadow magnetic resonance
